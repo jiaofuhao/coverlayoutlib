@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CoverLayout_Style">
+        <attr name="gravity">
+            <enum name="LEFT" value="0" />
+            <enum name="RIGHT" value="1" />
+            <enum name="TOP" value="2" />
+            <enum name="BOTTOM" value="3" />
+            <enum name="LEFTTOP" value="4" />
+            <enum name="RIGHTTOP" value="5" />
+            <enum name="LEFTBOTTOM" value="6" />
+            <enum name="RIGHTBOTTOM" value="7" />
+            <enum name="CENTER" value="8" />
+        </attr>
+    </declare-styleable>
+</resources>
